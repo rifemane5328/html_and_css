@@ -1,0 +1,26 @@
+    .info{
+    color: red;
+    }
+    .info2{
+    color:#7B24E0;
+    }
+    body {
+    background-color:lightblue;
+    background-image:url();
+    font-family: "Helvetica";
+    }
+    a{
+    color: #7B24E0
+    }
+    div{
+    margin:20px
+    padding:20px
+    border:2px dashed black;
+    }
+    img{
+    border:2px solid
+    }
+    body{
+    text-align:centre;
+    background-image: url
+    }
